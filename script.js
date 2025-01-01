@@ -89,8 +89,8 @@ document.addEventListener("DOMContentLoaded", function () {
     " ",
     " ",
      
-      "KARENA AKU ",
-      "MENCINTAIMU ",
+      "MAAF CUMAN INI HEHE ",
+      "MWAHH ",
       "",
       "",
       "",
