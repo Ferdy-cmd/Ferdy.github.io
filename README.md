@@ -1,1 +1,0 @@
-# Ferdy-cmd-github.io
